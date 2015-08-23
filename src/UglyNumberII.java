@@ -1,8 +1,8 @@
 
-public class UglyNumber {
+public class UglyNumberII {
 	
 	public static void main(String[] args){
-		UglyNumber number = new UglyNumber();
+		UglyNumberII number = new UglyNumberII();
 		System.out.println(number.nthUglyNumber(11));
 	}
 
